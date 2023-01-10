@@ -9,3 +9,5 @@ Techs used are:
   1. React components.
   2. React hooks.
   3. Fetch http request.
+
+The API url: https://v2.jokeapi.dev/joke/Any?type=twopart&amount=9
